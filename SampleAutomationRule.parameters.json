@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "workspace": {
+      "value": "michaelva-la"
+    },
+    "displayName": {
+      "value": "Sample JSON Bicep Automation Rule"
+    }
+  }
+}
